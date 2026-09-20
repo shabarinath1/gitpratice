@@ -1,0 +1,2 @@
+# gitpratice
+praticing git
